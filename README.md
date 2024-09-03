@@ -41,7 +41,7 @@ It is not trained for all conversations but you can talk normally.
 
 A new paper suggests that video games might hold the key to providing affordable, stigma-free mental health
 treatment around the globe.  
-So I added two simple games for users to enjoy..
+So I added a simple game for users to enjoy..
 
 ![Screenshot (623)](https://github.com/user-attachments/assets/3a758550-9c22-485d-8772-db36cd24b88a)
 
@@ -59,15 +59,6 @@ So I added two simple games for users to enjoy..
 * Use the Left and Right arrow keys (or) use A and D to move the car.
 
 ![Screenshot (622)](https://github.com/user-attachments/assets/32ab51ef-2506-40b8-a19e-d0639c1d5b7a)
-
-### Blockson
-
-#### How to play:
-
-* Use the Up arrow (or) Just click on the screen to jump.
-  
-![Screenshot (621)](https://github.com/user-attachments/assets/52349490-d509-420e-b0d6-e701a1c52130)
-
 
 
 # Nutrition for Mental Health
