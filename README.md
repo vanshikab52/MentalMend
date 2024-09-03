@@ -5,7 +5,7 @@ It shows the importance of looking after your mental health and some easy ways t
 
 ![Screenshot (615)](https://github.com/user-attachments/assets/08d498ca-8a00-4f37-9044-78a3495cbbf1)
 
-# Features🔥
+## Features🔥
 
 * Friendly Chatbot
 * Nutrition needs to maintain mental health
@@ -14,7 +14,7 @@ It shows the importance of looking after your mental health and some easy ways t
 
 ![Screenshot (616)](https://github.com/user-attachments/assets/43b02b1d-0ce2-4a31-987c-1f78fe9659b5)
 
-# Chatbot
+## Chatbot
 
 Talking openly about what you're going through would help you to reduce the burden. 
 
@@ -37,7 +37,7 @@ It is not trained for all conversations but you can talk normally.
 * [Rivescript](https://www.rivescript.com/)
 
 
-# Gaming 
+## Gaming 
 
 A new paper suggests that video games might hold the key to providing affordable, stigma-free mental health
 treatment around the globe.  
@@ -61,7 +61,7 @@ So I added a simple game for users to enjoy..
 ![Screenshot (622)](https://github.com/user-attachments/assets/32ab51ef-2506-40b8-a19e-d0639c1d5b7a)
 
 
-# Nutrition for Mental Health
+## Nutrition for Mental Health
 
 It is also important to understand how food choices affect your brain, Good diet is 
 important for mental health.
@@ -76,7 +76,7 @@ important for mental health.
 
 
 
-# Exercise for Mental Health
+## Exercise for Mental Health
 
 One study found that increasing your activity levels from doing nothing, to exercising at least three times a week, reduces the risk of depression by up to 30 per cent.
 
